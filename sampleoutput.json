@@ -1,0 +1,66 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Raygun defends record as Australia's best breakdancer",
+      "description": "Rachel Gunn says sorry after her zero score at the Olympics prompted ridicule and made global headlines.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg54k40857o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5109/live/c7c8ade0-6a8f-11ef-a788-4d91a3630157.jpg",
+      "publishedAt": "2024-09-04T11:22:23.9794765Z",
+      "content": "It is really sad to hear those criticisms and I am very sorry for the backlash that the community has experienced, but I cant control how people react, she continued, addressing the flood of critique… [+2673 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": null,
+      "title": "Rachael 'Raygun' Gunn defends record amid Paris Olympics criticism - ESPN",
+      "description": "Rachael \"Raygun\" Gunn has defended her breakdancing skills and suggested much of the criticism she received for her performance last month at the Paris Olympics was born of ignorance of the sport.",
+      "url": "https://www.espn.com/olympics/story/_/id/41118758/rachael-raygun-gunn-defends-record-amid-paris-olympics-criticism",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0904%2Fr1381771_1296x729_16%2D9.jpg",
+      "publishedAt": "2024-09-04T10:54:00Z",
+      "content": "SYDNEY -- Rachael \"Raygun\" Gunn, the Australian breaker who became an overnight sensation at the Paris Olympics, has defended her breakdancing skills and suggested much of the criticism she received … [+3298 chars]"
+    },
+    {
+      "source": { "id": "the-huffington-post", "name": "The Huffington Post" },
+      "author": "Josephine Harvey",
+      "title": "Simone Biles Bids Farewell To 1 Of Her Greatest Moves In The Most Iconic Way",
+      "description": "The gymnastics champion suggested at the Olympics that she won't be doing this maneuver ever again.",
+      "url": "https://www.huffpost.com/entry/simone-biles-rip-yurchenko-vault_n_66d82776e4b0830f6e92cd1f",
+      "urlToImage": "https://img.huffingtonpost.com/asset/66d82a242300007b04782401.jpeg?cache=Y74zuFDNm8&ops=1200_630",
+      "publishedAt": "2024-09-04T10:18:51Z",
+      "content": "Simone Biles appears to have held a funeral for one of her most dangerous gymnastics moves. \r\nThe 11-time Olympic medalist posted a photoshoot on Instagram this week showing her seated on a vault sur… [+3307 chars]"
+    },
+    {
+      "source": { "id": "news-com-au", "name": "News.com.au" },
+      "author": "Andrew McMurtry",
+      "title": "‘Really sad’: Raygun breaks her silence",
+      "description": "Rachael “Raygun” Gunn has finally broken her silence in her first sit down interview since the Paris Olympics.",
+      "url": "https://www.news.com.au/sport/olympics/rachael-raygun-gunn-finally-breaks-her-silence-after-olympic-furore/news-story/f6d570b889e8ad851600883dd41374a3",
+      "urlToImage": "https://content.api.news/v3/images/bin/1ff7cadd991ac56a992aed8a9ae66cae",
+      "publishedAt": "2024-09-04T09:10:00Z",
+      "content": "Rachael “Raygun” Gunn has finally broken her silence in her first sit down interview since the Paris Olympics.\r\nChannel 10’s The Project landed the world exclusive after the Aussie break dancer made … [+3885 chars]"
+    },
+    {
+      "source": { "id": "the-hindu", "name": "The Hindu" },
+      "author": "PTI",
+      "title": "Tokyo Olympics | Deepika ninth in ranking round; Koreans top-two",
+      "description": "The performances will determine the seedings for the elimination rounds.",
+      "url": "https://www.thehindu.com/sport/tokyo-olympics-deepika-ninth-in-ranking-round-koreans-top-two/article35481902.ece",
+      "urlToImage": "https://www.thehindu.com/sport/uvmmr0/article35481908.ece/ALTERNATES/LANDSCAPE_615/thnak1330128994jpg",
+      "publishedAt": "2021-07-23T03:40:59Z",
+      "content": "Star Indian archer Deepika Kumari finished ninth in the womens individual ranking round as the countrys Olympic campaign kickstarted at the Yumenoshima Park in Tokyo on Friday.\r\n The world No.1 finis… [+1117 chars]"
+    },
+    {
+      "source": { "id": "the-hindu", "name": "The Hindu" },
+      "author": "The Hindu",
+      "title": "In search of gold: On Tokyo Olympics",
+      "description": "The Olympic Games remain the greatest sporting event for fans and athletes alike",
+      "url": "https://www.thehindu.com/opinion/editorial/in-search-of-gold-the-hindu-editorial-on-tokyo-olympics-2021/article35478354.ece",
+      "urlToImage": "https://www.thehindu.com/static/theme/default/base/img/og-image.jpg",
+      "publishedAt": "2021-07-22T18:32:00Z",
+      "content": "A medal can lose its lustre but the athletes sporting immortality is set in stone, such is the enduring allure of triumphs at the Olympics. Even a participant without any titles, is referred to as an… [+2521 chars]"
+    }
+  ]
+}
